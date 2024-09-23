@@ -49,6 +49,7 @@ This repository implements an ArgoCD App of Apps pattern to deploy Istio and its
 ## Prerequisites
 
 - [ArgoCD](https://gitlab.com/assessment4622826/terraform-eks-argocd.git)
+- [Flask App and pipeline](https://gitlab.com/assessment4622826/hello_world_app.git)
 
 ## Bootstrapping Istio and dependencies
 
